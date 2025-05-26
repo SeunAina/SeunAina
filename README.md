@@ -2,7 +2,7 @@
 
 **Data Analyst | Excel & SQL Enthusiast | Power BI Storyteller | Passionate About Driving Growth with Data**
 
-I'm a detail-oriented data analyst who helps businesses and individuals turn data into actionable insights that drive growth and improve decision-making.
+I helps businesses and individuals turn data into actionable insights that drive growth and improve decision-making.
 
 ---
 
