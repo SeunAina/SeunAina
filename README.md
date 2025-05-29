@@ -1,14 +1,14 @@
 # Hi, I'm Oluwaseun Aina 
 
-**Data Analyst | Excel & SQL Enthusiast | Power BI Storyteller | Passionate About Driving Growth with Data**
-
-I helps businesses and individuals turn data into actionable insights that drive growth and improve decision-making.
+**Data Analyst | I help brands listen to what their data is saying.**
 
 ---
 
 ## About Me
 
-I hold a **BSc in Statistics** from **Ajayi Crowther University**, and I’m currently enrolled in the **Data Engineering track at AltSchool Africa**. My journey into data started from curiosity and grew into a deep passion for uncovering trends, solving problems, and creating visual stories from raw data.
+I hold a **BSc in Statistics** from **Ajayi Crowther University**, and I’m currently enrolled in the **Data Engineering track at AltSchool Africa**. 
+
+My journey into data started from curiosity and grew into a deep passion for uncovering trends, solving problems, and creating visual stories from raw data.
 
 With hands-on skills in **Excel**, **SQL**, **Power BI**, and **Python**, I enjoy working on real-world datasets and building clean, insightful dashboards and reports.
 
