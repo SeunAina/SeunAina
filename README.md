@@ -55,7 +55,7 @@ Here are some of the projects that reflect my interest and skills in data analyt
 ## 📬 Let's Connect
 
 - 📧 Email: seunainaa@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oluwaseun-aina/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ainaoluwaseun/)
 - 📞 +2349160329755 
 
 ---
