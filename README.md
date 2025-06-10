@@ -30,7 +30,7 @@ Here are some of the projects that reflect my interest and skills in data analyt
   Designed a relational database and created a dashboard to monitor key store metrics.  
   _Tools: MySQL, Power BI_
 
-- **[Employee Attrition Analysis](https://github.com/SeunAina/Employee-Attrition-EDA-Using-Excel-And-PowerBI)**  
+- **[Employee Attrition Analysis](https://github.com/SeunAina/employee-attrition-analysis.git)**  
   Investigated attrition trends within a company to support HR decisions.  
   _Tools: Excel, Power BI_
 
