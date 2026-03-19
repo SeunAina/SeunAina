@@ -18,18 +18,6 @@ With hands-on skills in **Excel**, **SQL**, **Power BI**, and **Python**, I enjo
 
 Here are some of the projects that reflect my interest and skills in data analytics:
 
--  **[Canada Refugee Statistics Analysis using Python](https://github.com/SeunAina/Canada-Refugee-Statistics-Analysis-Using-Python)**  
-  Exploratory Data Analysis on UNHCR data from 2012–2022.  
-  _Tools: Python, Pandas, Matplotlib, Seaborn_
-
--  **[Superstore EDA using Excel](https://github.com/SeunAina/Superstore-EDA-Using-Excel)**  
-  Analyzed sales performance and trends in a fictional Superstore dataset.  
-  _Tools: Microsoft Excel_
-
--  **[E-Commerce Database Analysis using MySQL & Power BI](https://github.com/SeunAina/E-Commerce-Database-Creation-And-Analysis-Using-MySQL-And-PowerBI)**  
-  Designed a relational database and created a dashboard to monitor key store metrics.  
-  _Tools: MySQL, Power BI_
-
 - **[Employee Attrition Analysis](https://github.com/SeunAina/employee-attrition-analysis.git)**  
   Investigated attrition trends within a company to support HR decisions.  
   _Tools: Excel, Power BI_
@@ -38,6 +26,7 @@ Here are some of the projects that reflect my interest and skills in data analyt
 
 ##  Certifications
 
+- Data Analysis Associate - Datacamp
 - IBM Data Analyst Professional Certificate - IBM
 - Google Data Analytics - Google
 - Applied Data Science Lab - WorldQuant University
