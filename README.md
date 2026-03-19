@@ -1,6 +1,6 @@
 # Hi, I'm Oluwaseun Aina 
 
-**Data Analyst | I help brands listen to what their data is saying.**
+**Data Analyst | I turn messy data into business decisions.**
 
 ---
 
