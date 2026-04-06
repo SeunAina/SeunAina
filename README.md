@@ -6,11 +6,10 @@
 
 ## About Me
 
-I hold a **BSc in Statistics** from **Ajayi Crowther University**, and I’m currently enrolled in the **Data Engineering track at AltSchool Africa**. 
-
-My journey into data started from curiosity and grew into a deep passion for uncovering trends, solving problems, and creating visual stories from raw data.
-
-With hands-on skills in **Excel**, **SQL**, **Power BI**, and **Python**, I enjoy working on real-world datasets and building clean, insightful dashboards and reports.
+I am a data and business intelligence analyst with 3 years of experience turning messy, real-world data into clear, actionable strategy. 
+My background spans across financial services,travel agencies, e-commerce, sports and FMCG where I have built dashboards, automated reporting spreadsheets & pipelines, and developed models that directly influenced business outcomes. 
+I care about the full journey, from understanding the stakeholder's question to delivering answers they can actually act on. Through thoughtful visualisation and communication that does not require a technical understanding to follow.
+When I am not doing data, I am reading about system designs or brewing coffee.
 
 ---
 
